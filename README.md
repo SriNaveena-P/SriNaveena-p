@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>💡 Think → 💻 Code → 🤖 Innovate → 🚀 Impact</b>
+  <b>📚 Learn → 🛠️ Create → 🌱 Grow → 🚀 Achievet</b>
 </p>
 
 <p align="center">
@@ -49,8 +49,7 @@ while continuously exploring emerging technologies.
     <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><sub><b>Java</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><sub><b>C++</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><sub><b>TypeScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>Python</b></sub></td>
+    
   </tr>
 </table>
 
@@ -60,9 +59,6 @@ while continuously exploring emerging technologies.
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><sub><b>HTML</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><sub><b>CSS</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><sub><b>React</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><sub><b>Node.js</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><sub><b>Express</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><sub><b>FastAPI</b></sub></td>
   </tr>
 </table>
 
@@ -89,12 +85,6 @@ while continuously exploring emerging technologies.
   <code>Chart.js</code>
 </p>
 
-<p align="center"><b>🤝 Soft Skills</b></p>
-<p align="center">
-  <code>Communication</code>
-  <code>Time Management</code>
-  <code>Problem-Solving</code>
-</p>
 
 ---
 
@@ -172,7 +162,6 @@ data exposure in real time.
 - 🏆 **Infosys Springboard** — Java Foundation Certificate
 - 🏆 **Infosys Springboard** — Python Foundation Certificate
 - 🔐 **Cisco Networking Academy** — Introduction to Cybersecurity
-- 🏆 **NPTEL** — Data Science and Engineering
 - 🏆 **NPTEL** — Programming in Java (Silver)
 - 🏆 **NPTEL** — Introduction to Machine Learning
 
@@ -194,7 +183,7 @@ data exposure in real time.
 </p>
 
 <p align="center">
-  💻 Code → 🧠 Learn → 🚀 Build → 🔥 Repeat
+  ✨ Dream → 💡 Create → 💻 Code → 🚀 Inspire
 </p>
 
 ---
@@ -202,8 +191,8 @@ data exposure in real time.
 # 🌱 Currently Exploring
 
 ```text
-☕ Advanced Java & Spring Boot
-⚛️ React.js & TypeScript
+☕ Advanced Java 
+⚛️ React.js
 🤖 AI Agents & Generative AI
 🔐 AI Security & Cybersecurity
 🗄️ Database Design
